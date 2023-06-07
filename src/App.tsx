@@ -29,7 +29,7 @@ import Footer from "./Footer";
 // `npm run deploycontract` to get deployment transaction id
 const contract_id = {
   /** The deployment transaction id */
-  txId: "65d80537b63bc7fe12280826cdb9fa4424add5c08def0340ddc8444908c03d9e",
+  txId: "192045cbd5bab7f61b869c7e6315216bb0d7f9928b41cb32af03076cece725d4",
   /** The output index */
   outputIndex: 0,
 };
